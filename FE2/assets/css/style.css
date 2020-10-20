@@ -1,0 +1,141 @@
+@font-face {
+    font-family: 'MALDINI NORMAL';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MALDINI NORMAL'), url('../fonts/MaldiniNormal-x37xm.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'MALDINI STYLE';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MALDINI STYLE'), url('../fonts/MaldiniStyle-p78Rd.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'MALDINI Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MALDINI Bold'), url('../fonts/MaldiniBold-EaqGW.woff') format('woff');
+    }
+
+    @font-face {
+      font-family: 'SPORTYPO REGULAR';
+      font-style: normal;
+      font-weight: normal;
+      src: local('SPORTYPO REGULAR'), url('../fonts/SportypoReguler-OVGwe.woff') format('woff');
+      }
+
+body, html {
+  height: 100%;
+  width: 100%;
+}
+
+.background {
+    background-image: url("../images/gamestorenotext.png");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.background h1{
+  text-shadow:  10px 10px 10px black;
+}
+.background p{
+  font-size: 25px;
+  align-self: start;;
+}
+
+.img {
+  width: 400px;
+  height: 200px;
+  border:2px solid #fff;
+  background: url(img/tiger.png) no-repeat;
+  box-shadow: 10px 10px 5px #ccc;
+  -moz-box-shadow: 10px 10px 5px #ccc;
+  -webkit-box-shadow: 10px 10px 5px #ccc;
+  -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+.whyus{
+    background-color: #343434;
+    width: 100%;
+    color: #F5EFEF;
+    position:relative;
+    
+}
+
+.contactus{
+    width: 100%;
+    height: 80%;
+  
+    
+}
+
+.view{
+padding-top: 150px;
+
+
+}
+
+.details{
+  margin-top: 125px;
+ 
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.text-header {
+  font-family: 'SPORTYPO REGULAR'; 
+  font-weight: normal;
+  font-size: 5.2rem; 
+  
+}
+
+@media only screen and (max-width: 420px) {
+  .text-header {
+    font-size: 2.5rem; 
+  }
+}
+
+@media only screen and (min-width: 420px) {
+  .text-header {
+    font-size: 2.8rem; 
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .text-header {
+    font-size: 3.5rem; 
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .text-header {
+    font-size: 5.2rem; 
+  }
+}
+
+
