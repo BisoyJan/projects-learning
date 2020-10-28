@@ -1,0 +1,130 @@
+13 Sep 2020 9:43:36 pm :: Function ProNameComp Started.
+13 Sep 2020 9:43:37 pm :: Occurance of 'PRO' NOT found.Proceed with installation.
+13 Sep 2020 9:43:37 pm :: Installation can CONTINUE. Processor : AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx   Manufacturer : ASUSTeK COMPUTER INC.
+13 Sep 2020 9:43:37 pm :: Hence disallow installation of AMDDynamicLocalModeService.
+13 Sep 2020 9:43:37 pm :: Function ProNameComp Ended.
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:43:41 pm :: Function TaskSchdlr - TASK NOT FOUND : CREATIN
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlr - Updated AMDAutoUpdate
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13 Sep 2020 9:43:42 pm :: Function TaskSchdlrEdit - Querying
+13/09/2020 9:43:50 pm :: Function ReadRegistryKey started.
+13/09/2020 9:43:50 pm :: Function ReadRegistryKey KeyValue is  NOEXECUTE=OPTIN  NOVGA
+13/09/2020 9:43:50 pm :: Function ReadRegistryKey Ended.
+13/09/2020 9:43:50 pm :: NUMPROC value from reg read  :  NOEXECUTE=OPTIN  NOVGA
+13/09/2020 9:43:50 pm :: RunBcdedit : LCM is read to be in OFF state.Directly install the update.
+13 Sep 2020 9:43:51 pm :: PiR_Install value updated : 256
+13 Sep 2020 9:43:51 pm :: SR_Install value updated : 256
+13 Sep 2020 9:43:51 pm :: Setup.exe - 5.12 cached as platform is not PCO or PiR.But Mattisse
+13 Sep 2020 9:43:51 pm :: QML Source: C:\AMD\RyzenMasterExtract\MSIFiles\Qt_Dependancies\..\Qt_Dependancies\Setup.exe
+13 Sep 2020 9:43:51 pm :: Destination: C:\Program Files\AMD\RyzenMaster\bin\
+13 Sep 2020 9:43:51 pm :: Function Delete_QTExtraction. Remove RyzenMasterExtract folder completed.
+13 Sep 2020 9:45:40 pm :: Remove_AMDDynamicSvc : InstallDirectory : C:\Program Files\AMD\AMDDynamicLocalModeService\
+13 Sep 2020 9:45:40 pm :: Remove_AMDDynamicSvc : AMDDynamicLocalModeService.exe not found in install path.
+13 Sep 2020 9:46:04 pm :: The state of AUEPLauncher service is : FAILED
+13 Sep 2020 9:46:04 pm :: The state of AUEPLauncher service is not started.hence no action taken.
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Deleting AMDAutoUpdate since it is present
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:05 pm :: Function TaskSchdlr - Querying
+13 Sep 2020 9:46:06 pm :: Function RemovePrevConf - Installed version : 2.3.0.1591. Deleting only settings file as installed version is 1.1
+13/09/2020 9:46:06 pm :: Function RemoveAMDRMService Started.
+13/09/2020 9:46:07 pm :: Function RemoveAMDRMService Started;;ALL;
+13/09/2020 9:46:07 pm :: PiR_Install value updated : 256
+13/09/2020 9:46:07 pm :: SR_Install value updated : 256
+13/09/2020 9:46:07 pm :: UI install path as per environment variable in  is : C:\Program Files\AMD\RyzenMaster\
+13/09/2020 9:46:07 pm :: Function ReadRegistryKey started.
+13/09/2020 9:46:07 pm :: Function ReadRegistryKey KeyValue is \??\C:\Program Files\AMD\RyzenMaster\bin\AMDRyzenMasterDriver.sys
+13/09/2020 9:46:07 pm :: Function ReadRegistryKey Ended.
+13/09/2020 9:46:07 pm :: Path from which service runs as per registry : \??\C:\Program Files\AMD\RyzenMaster\bin\AMDRyzenMasterDriver.sys
+13/09/2020 9:46:07 pm :: Uninstalling driver service as it belongs to current installer being removed.
+13/09/2020 9:46:07 pm :: Function ExecuteFiles strBatchFilePath "C:\Program Files\AMD\RyzenMaster\DriverUtility.bat" -u
+13/09/2020 9:46:07 pm :: Function ExecuteFiles errReturn 0 for file "C:\Program Files\AMD\RyzenMaster\DriverUtility.bat" -u.
+13/09/2020 9:46:07 pm :: Function RemoveAMDRMService. Remove bin files started.
+13/09/2020 9:46:07 pm ::  Remove bin files started.C:\Program Files\AMD\RyzenMaster\bin
+13/09/2020 9:46:07 pm :: Remove bin files started. Folders gone.
+13/09/2020 9:46:07 pm :: Function RemoveAMDRMService. Remove logs files started.
+13/09/2020 9:46:07 pm :: Remove logs files started.C:\Program Files\AMD\RyzenMaster\logs
+13/09/2020 9:46:07 pm :: Function RemoveAMDRMService. DefaultImages folder not present at : C:\Program Files\AMD\RyzenMaster\
+13/09/2020 9:46:07 pm :: Function RemoveAMDRMService. DefaultImages folder not present at : C:\Program Files\AMD\RyzenMaster\
+13/09/2020 9:46:07 pm :: Function RemoveAMDRMService. Minor Upgrade property is : 
+13/09/2020 9:46:08 pm :: Function Delete_QTExtraction. Remove RyzenMasterExtract folder completed.
+13/09/2020 9:46:08 pm :: Function RemoveAMDRMService Ended.
+13 Sep 2020 9:46:23 pm :: PiR_Install value updated : 256
+13 Sep 2020 9:46:23 pm :: SR_Install value updated : 256
+13 Sep 2020 9:46:23 pm :: The state of AMDRM service is : FAILED
